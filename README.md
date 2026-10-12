@@ -1,2 +1,2 @@
 # asd
-https://bl4ver.github.io/Bistro-Shop/
+https://bl4ver.github.io/Bistro-Shop/index.html
